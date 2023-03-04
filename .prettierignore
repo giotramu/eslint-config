@@ -1,0 +1,8 @@
+/index.js
+/javascript.js
+/typescript.js
+/react.js
+/types/
+
+.cache
+node_modules
